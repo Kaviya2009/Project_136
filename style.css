@@ -1,0 +1,39 @@
+body
+{
+    background-size: cover;
+}
+
+#heading
+{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+background-color: rgb(253, 194, 194);
+color: rgb(255, 77, 77);
+}
+
+#note
+{
+font-size: 17px;
+width: 100%;
+margin: 0px;
+background-color: rgb(253, 194, 194);
+}
+
+#start
+{
+    background-color: rgb(252, 205, 167);
+}
+
+#objects
+{
+    width: 30%;
+}
+
+canvas
+{
+box-shadow: 10px 10px 10px grey;
+border-radius: 10px;
+margin-top: 80px;
+}
+
